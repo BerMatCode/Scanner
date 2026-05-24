@@ -1,0 +1,6 @@
+{
+  "name": "BerMatScanner",
+  "description": "Native professional QR code scanner with history, real-time scanning, flashlight, vibrator, and gallery uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
